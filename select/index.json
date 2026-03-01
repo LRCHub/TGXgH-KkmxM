@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "The Manifesto",
+  "base_artist": "Gorillaz",
+  "createdAt": "2026-03-01T07:14:47.440194Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Manifesto",
+      "artist": "Goldie Lookin Chain",
+      "has_synced": true,
+      "path": "select/01_The_Manifesto_Goldie_Lookin_Chain.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LE RAGAZZE DI PORTA VENEZIA - THE MANIFESTO (feat. La Pina, Elodie, Priestess, Joan Thiele & Roshelle)",
+      "artist": "M¥SS KETA",
+      "has_synced": true,
+      "path": "select/02_LE_RAGAZZE_DI_PORTA_VENEZIA_-_THE_MANIFESTO_(feat._La_Pina,_Elodie,_Priestess,_J_M¥SS_KETA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LE RAGAZZE DI PORTA VENEZIA - THE MANIFESTO",
+      "artist": "M¥SS KETA",
+      "has_synced": true,
+      "path": "select/03_LE_RAGAZZE_DI_PORTA_VENEZIA_-_THE_MANIFESTO_M¥SS_KETA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Manifesto",
+      "artist": "Goldie Lookin Chain",
+      "has_synced": true,
+      "path": "select/04_The_Manifesto_Goldie_Lookin_Chain.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Manifesto of the Divine Children",
+      "artist": "An Albatross",
+      "has_synced": true,
+      "path": "select/05_The_Manifesto_of_the_Divine_Children_An_Albatross.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LE RAGAZZE DI PORTA VENEZIA - THE MANIFESTO (feat. La Pina, Elodie, Priestess & Joan Thiele)",
+      "artist": "M¥SS KETA",
+      "has_synced": true,
+      "path": "select/06_LE_RAGAZZE_DI_PORTA_VENEZIA_-_THE_MANIFESTO_(feat._La_Pina,_Elodie,_Priestess_&__M¥SS_KETA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Manifesto",
+      "artist": "Kweli",
+      "has_synced": true,
+      "path": "select/07_The_Manifesto_Kweli.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LE RAGAZZE DI PORTA VENEZIA - THE MANIFESTO (feat. La Pina, Elodie, Priestess, Joan Thiele & Roshelle)",
+      "artist": "M¥SS KETA",
+      "has_synced": true,
+      "path": "select/08_LE_RAGAZZE_DI_PORTA_VENEZIA_-_THE_MANIFESTO_(feat._La_Pina,_Elodie,_Priestess,_J_M¥SS_KETA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "LE RAGAZZE DI PORTA VENEZIA - THE MANIFESTO (con La Pina, Elodie, Priestess e Joan Thiele)",
+      "artist": "M¥SS KETA",
+      "has_synced": true,
+      "path": "select/09_LE_RAGAZZE_DI_PORTA_VENEZIA_-_THE_MANIFESTO_(con_La_Pina,_Elodie,_Priestess_e_Jo_M¥SS_KETA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Manifesto",
+      "artist": "Goldie Looking Chain",
+      "has_synced": true,
+      "path": "select/10_The_Manifesto_Goldie_Looking_Chain.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Manifesto (feat. Trueno & Proof)",
+      "artist": "Gorillaz",
+      "has_synced": false,
+      "path": "select/11_The_Manifesto_(feat._Trueno_&_Proof)_Gorillaz.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Manifesto",
+      "artist": "Gorillaz feat. Trueno and Proof",
+      "has_synced": true,
+      "path": "select/12_The_Manifesto_Gorillaz_feat._Trueno_and_Proof.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Manifesto (feat. Trueno and Proof)",
+      "artist": "Gorillaz",
+      "has_synced": false,
+      "path": "select/pl_01_The_Manifesto_(feat._Trueno_and_Proof)_Gorillaz.txt"
+    }
+  ]
+}
